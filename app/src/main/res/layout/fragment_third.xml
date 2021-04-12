@@ -9,6 +9,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/third_fragment" />
+        android:text="@string/third_fragment"
+        android:gravity="center_vertical|center_horizontal"
+        android:fontFamily="serif-monospace"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        />
 
 </FrameLayout>

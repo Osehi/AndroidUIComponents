@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:id="@+id/nav_menu_1"
+    <item android:id="@+id/firstFragment"
         android:title="First Menu"
         />
 
-    <item android:id="@+id/nav_menu_2"
+    <item android:id="@+id/secondFragment"
         android:title="Second Menu"
         />
 
-    <item android:id="@+id/nav_menu_3"
+    <item android:id="@+id/thirdFragment"
         android:title="Third Menu"
         />
 
